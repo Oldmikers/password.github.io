@@ -1,2 +1,0 @@
-#pass
-password.github.io
